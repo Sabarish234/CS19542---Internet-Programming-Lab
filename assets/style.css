@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.navbarmenu{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.loginimg{
+	border-radius: 10px;
+}
+
+
+
